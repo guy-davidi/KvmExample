@@ -28,4 +28,3 @@ If you have ideas for improvements or would like to extend this project, feel fr
 
 License
 This project is licensed under the MIT License.
-
